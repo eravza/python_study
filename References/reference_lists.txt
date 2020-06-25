@@ -1,0 +1,4 @@
+https://matplotlib.org/tutorials/introductory/pyplot.html
+https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html#dsintro
+https://data-flair.training/blogs/python-variables-and-data-types/
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
